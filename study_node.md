@@ -274,6 +274,7 @@
         #grid {display: block}
         #grid ol {border-right: none}
         h1 {border-bottom: none}
+        }
     </style>
 </head>
 ```

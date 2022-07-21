@@ -1,6 +1,6 @@
 # 생활코딩 WEB2 - CSS 수업
 > * [완성 작품으로 이동](https://kshyun1223.github.io/web2_css/)
-> * [필기노트로 이동](https://github.com/kshyun1223/study_note/blob/main/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9/02.%20WEB2%20-%20CSS.md)
+> * [필기노트로 이동](https://github.com/kshyun1223/web2_css/blob/main/css%20note.md)
 
 ### 사용언어
 * HTML
